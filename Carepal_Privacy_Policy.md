@@ -8,7 +8,7 @@ Controller: Carepal Ltd. (pending incorporation as HomeCareAI) is the data cont
 Contact Details:
 If you have any questions about this Privacy Policy or our data protection practices, please contact us:
 Email: info@homecareai.co.uk
-Postal Address: [Carepal Registered Office Address - To be inserted upon incorporation]
+Postal Address: [Tees Valley, Middlesbrough, TS1 4HP United Kingdom]
 Changes to the Privacy Policy and Your Duty to Inform Us of Changes: We keep our Privacy Policy under regular review. This version was last updated on the date stated above. Historic versions can be obtained by contacting us. It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 2. The Data We Collect About You
 Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
